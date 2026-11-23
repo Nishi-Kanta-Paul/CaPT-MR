@@ -250,7 +250,7 @@ This repository is for research on few-shot fine-grained recognition and the ana
 @article{paul_rivalaware,
   title   = {Rival-Aware Partial Transport for Few-Shot Fine-Grained Image Classification: A Mechanism Study},
   author  = {Paul, Nishi Kanta and Shovo, Md Shihabul Islam and Lee, Hoileong},
-  journal = {Neurocomputing},
+  journal = {XXXX},
   note    = {Preprint}
 }
 ```
