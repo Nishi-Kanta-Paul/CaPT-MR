@@ -6,7 +6,6 @@
 
 <sup>1</sup>NIMISHES Lab, Dhaka, Bangladesh &nbsp;&nbsp; <sup>2</sup>Faculty of Electronic Engineering and Technology, Universiti Malaysia Perlis
 
-*Preprint submitted to Neurocomputing*
 
 ![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB.svg?logo=python&logoColor=white)
 ![PyTorch 2.6](https://img.shields.io/badge/PyTorch-2.6-EE4C2C.svg?logo=pytorch&logoColor=white)
